@@ -10,7 +10,7 @@
 
 3. Clone this repo using `git clone https://github.com/jpmvferreira/refind-ambience-deer-and-fireflies`;
 
-4. Add the line `include themes/refind-ambience-remake/theme.conf` to `refind.conf` at the end of the config file.
+4. Add the line `include themes/refind-ambience-deer-and-fireflies/theme.conf` to `refind.conf` at the end of the config file.
 
 ## Credits
 
@@ -22,4 +22,6 @@ Wallpaper belongs to [Muhammad Nafay at artstation](https://www.artstation.com/a
 
 ## License
 
-MIT
+All of contents present in this repository which I have developed are licensed under the MIT license.
+
+For content which is external and not a product of my work, refer to the corresponding source for more information.
